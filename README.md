@@ -5,3 +5,10 @@ issue is, if I can see the numbers, I can do the maths in my head, visualizing t
 Anyway just playing around with this.
 
 This requires the `speech` package. Install with `pip install speech`
+
+
+## TODO
+
+Write this with web APIs, record response and check for correctness.
+
+Make this mobile ready
