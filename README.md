@@ -9,6 +9,8 @@ This requires the `speech` package. Install with `pip install speech`
 
 ## TODO
 
+This will probably never happen since I'm not that keen on being a trader, I just wrote this for fun.
+
 Write this with web APIs, record response and check for correctness.
 
 Make this mobile ready
